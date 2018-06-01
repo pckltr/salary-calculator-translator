@@ -3,7 +3,8 @@ Translates the salary calculator for Austria at http://cpulohn.net/lxwebV2/bmf.g
 
 # use
 
-* copy the script
+* open script.js
+* copy the contents of script.js
 * go to http://cpulohn.net/lxwebV2/bmf.gv.at/#bruttoNetto
 * press F12 to open dev tools
 * click on console tab in dev tools
